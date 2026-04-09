@@ -1,6 +1,6 @@
 # ✧ The Ummisalma Experience: A Visionary Launch ✧
 
-[![Tech Stack](https://img.shields.io/badge/Stack-Vanilla%20JS%20%7C%20CSS3%20%7C%20HTML5-gold)](https://github.com/yourusername/project-repo)
+[![Tech Stack](https://img.shields.io/badge/Stack-Vanilla%20JS%20%7C%20CSS3%20%7C%20HTML5-gold)](https://github.com/elkayslense/project-repo)
 [![Organization](https://img.shields.io/badge/DevGenZ-Founder%20Edition-black)](https://devgenz.com)
 
 > "Where algorithmic precision meets aesthetic grace."
@@ -33,10 +33,4 @@ This repository serves as a masterclass in **Modern Vanilla Web Development**.
 * **Styling:** Custom CSS Variables (Custom Properties) for a centralized "Luxury Dark" theme.
 -   **Typography:** High-contrast pairing of *Poppins* (Sans) for technical clarity and *Playfair Display* (Serif) for elegance.
 
----
-
-## 🚀 Deployment & Installation
-
-1. **Clone the repository:**
-   ```bash
    git clone [https://github.com/yourusername/ummi-anniversary-experience.git](https://github.com/yourusername/ummi-anniversary-experience.git)
