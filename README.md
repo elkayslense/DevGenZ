@@ -22,15 +22,5 @@ A modern, CSS Grid-based dashboard that serves as a central hub for her legacy.
 - **Dynamic Spotlight:** A custom JavaScript-driven cursor effect that illuminates card borders.
 - **Legacy Analytics:** Data-driven visuals celebrating the growth of DevGenZ.
 
----
-
-## 🛠 Technical Specifications
-
-This repository serves as a masterclass in **Modern Vanilla Web Development**.
-
-* **Logic:** `Intersection Observer API` for scroll-triggered entry animations.
-* **Performance:** `requestAnimationFrame` implementation for smooth frame-budgeting.
-* **Styling:** Custom CSS Variables (Custom Properties) for a centralized "Luxury Dark" theme.
--   **Typography:** High-contrast pairing of *Poppins* (Sans) for technical clarity and *Playfair Display* (Serif) for elegance.
 
    git clone [https://github.com/yourusername/ummi-anniversary-experience.git](https://github.com/yourusername/ummi-anniversary-experience.git)
