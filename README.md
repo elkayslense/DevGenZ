@@ -23,4 +23,4 @@ A modern, CSS Grid-based dashboard that serves as a central hub for her legacy.
 - **Legacy Analytics:** Data-driven visuals celebrating the growth of DevGenZ.
 
 
-   git clone [https://github.com/yourusername/ummi-anniversary-experience.git](https://github.com/yourusername/ummi-anniversary-experience.git)
+   git clone [https://github.com/elkayslense/ummi-anniversary-experience.git](https://github.com/elkayslense/ummi-anniversary-experience.git)
